@@ -1,3 +1,4 @@
+![IMG_20221222_174725](https://github.com/istvanpetro/istvanpetro/assets/115212178/cbd0b99d-fbd4-46ea-af96-ba353c580244)
 # Hi, my name is István!
 
 ## - 🔭 I worked as manager in a machining company for 14 years, first as a QUALITY MANAGER and then as a PLANT MANAGER.

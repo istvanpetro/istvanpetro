@@ -31,6 +31,9 @@
   - Kneusel - Practical DEEP LEARNING
   - Géron - Hands on MACHINE LEARNING with SCIKIT-LEARN, KERAS & TENSORFLOW
   - Guthals - GITHUB for dummies
+  - Vincent - Django for Beginners
+  - Vincent - Django for Professionals
+  - Vincent - Django for APIs
 
 ### I am learning these Python LIBRARIES:
   - numpy
@@ -42,11 +45,6 @@
   - turtle
   - django
   - ...
-#
-
-## - 👯 I’m looking for a job, where I can use my knowledge. :)
-  - I am very interested in this world of coding! :D
-  - I have an amazing desire to work as a developer. :)
 #
 
 ## - ⚡ My main areas of interest are:

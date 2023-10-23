@@ -76,7 +76,7 @@
   - logistics computer systems,
   - speech recognition systems,
   - artificial intelligence,
-  - web delevopment
+  - web development
 #
 
 ## - 📫 How to reach me: istvan.petro.code@gmail.com

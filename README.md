@@ -2,18 +2,22 @@
 
 # Hi, my name is István!
 
-## - 🔭 I worked as manager in a machining company for 14 years, first as a QUALITY MANAGER and then as a PLANT MANAGER.
-  - I had a lot of very interesting projects and met a lot of really nice people during this time.
-  - I will have great memories to tell in my old age, that’s for sure. :D
-  - I have MECHANICAL ENGINEER (MSc) degree in manufacturing automation and mechanical informatics.
-  - I speak ENGLISH (C1) and HUNGARIAN (as main language)
+# My career:
+## 🔭 I have 14 years of experience as manager in a CNC machining factory:
+  - QUALITY MANAGER (7 years - Quality Management, Customer relations, Quality Control Team, Measuring devices)
+  - PLANT MANAGER (7 years - Human Resource & Maintenance management: factory buildings and utilities, CNC machines, all other machines, new machines, project leading, security team)
 #
 
-## - 🌱 I’m currently learning PYTHON and I plan TO CHANGE MY CAREER in this direction.
-### I have learned from these BOOKS:
+# My Degree and Language level:
+  - MECHANICAL ENGINEER (MSc) degree in manufacturing automation and mechanical informatics.
+  - ENGLISH (C1) and HUNGARIAN (as main language)
+#
+#
+
+## 🌱 I’m currently learning COMPUTER PROGRAMMING.
+
+### PYTHON books I learned from:
   - Shovic, Simpson - PYTHON all-in-one for dummies
-  - Blum - PHP, MySQL, & JavaScript for dummies
-  - Gandhi - Head first GIT
   - Matthes - PYTHON crash course
   - Sweigart - Invent your own computer games with PYTHON
   - Sweigart - Beyond the basic stuff in PYTHON
@@ -23,19 +27,15 @@
   - LIU - Make PYTHON TALK
   - Moore - PYTHON gui programming with tkinter
   - Roseman - Modern Tkinter
-  - Debarros - Practical SQL
   - Vasiliev - PYTHON for DATA SCICENCE
   - Nield - Essential math for DATA SCIENCE
   - Harrison - Effective PANDAS
   - Glassner - DEEP LEARNING
   - Kneusel - Practical DEEP LEARNING
   - Géron - Hands on MACHINE LEARNING with SCIKIT-LEARN, KERAS & TENSORFLOW
-  - Guthals - GITHUB for dummies
-  - Vincent - Django for Beginners
-  - Vincent - Django for Professionals
-  - Vincent - Django for APIs
+  - Mayer - Python one liners
 
-### I am learning these Python LIBRARIES:
+### I am learning these PYTHON LIBRARIES:
   - numpy
   - pandas
   - scikit-learn
@@ -45,16 +45,38 @@
   - turtle
   - django
   - ...
+
+### WEB DEVELOPMENT books I learned from:
+  - Blum - PHP, MySQL, & JavaScript for dummies
+  - Debarros - Practical SQL
+  - Vincent - Django for Beginners
+  - Vincent - Django for Professionals
+  - Vincent - Django for APIs
+
+### OTHER PROGRAMMING LANGUAGE books I learned from:
+  - Burd - JAVA for dummies
+  - CS50 course on youtube
+
+### WORKFLOW, ETC. books I learned from:
+  - Guthals - GITHUB for dummies
+  - Gandhi - Head first GIT
+  - Speight - Visual Studio Code
+  - Jacob, Manjunath - ROBOTICS simplified
+  - Southerland - A SCRUM book
+  - Kirsch, Hurvitz - CLOUD computing for dummies
+  - Newman - Building Microservices
+#
 #
 
-## - ⚡ My main areas of interest are:
+## ⚡ My main areas of interest are:
   - robotics,
   - virtual personal assistant,
   - production support computer systems,
   - automation systems,
   - logistics computer systems,
   - speech recognition systems,
-  - artificial intelligence
+  - artificial intelligence,
+  - web delevopment
 #
 
 ## - 📫 How to reach me: istvan.petro.code@gmail.com
